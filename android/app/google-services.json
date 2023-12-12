@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "122979272582",
+    "project_id": "mood2-2385c",
+    "storage_bucket": "mood2-2385c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122979272582:android:c18517fd580481b89ece07",
+        "android_client_info": {
+          "package_name": "com.mycompany.mood2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXJFGJKf-AbnCLfnkgJObNPcROrvdf4_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122979272582:android:90ec9ccbda482c269ece07",
+        "android_client_info": {
+          "package_name": "com.mycompany.moodapp2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXJFGJKf-AbnCLfnkgJObNPcROrvdf4_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "quotes",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "Type",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "UID",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ]
+}
